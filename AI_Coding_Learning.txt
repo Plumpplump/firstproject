@@ -1,0 +1,8 @@
+I want you to create a Person class in python. 
+It has the class variable, amount, which specifies how many years would the person get older or younger by one year.
+It has the attributes name, age, and height, and amount variable added by 1.
+The person has a function called helloWorld for it to say helloWorld.
+It also has a __del__ function which reduces the amount variable by 1.
+It has a str function which returns the name, age, and height in the format of Variable : {}.
+it also has a function titled get_older which increases the age by the specified variable years
+

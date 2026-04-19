@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Plumpplump/firstproject.git
+git push -u origin main
+
+
+The above is only used for the 1st time.  subsequently:
+
+git add .
+git commit -m "first commit"
+git push -u origin main
